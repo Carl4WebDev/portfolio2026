@@ -2,7 +2,7 @@ export const personalInfo = {
   name: 'Carl Ivan Sampan',
   title: 'Full-Stack Developer',
   tagline: 'Building reliable, scalable web applications with a focus on clean architecture and real-world problem solving.',
-  bio: `I'm a self-taught developer who learned web development through Udemy courses, documentation, and hands-on building. I design and build complete software systems — from database architecture to polished user interfaces. I also build functional websites as a hobby and share them on Facebook so others can find them useful, just like I find them useful. I thrive on understanding complex problems and turning them into clean, maintainable solutions.`,
+  bio: `I'm a self-taught developer who chose to learn web development through Udemy courses, official documentation, and hands-on building — because I believe the best way to understand something is to build it. I actively seek feedback, learn from code reviews, and continuously improve my skills with every project. I design and build complete software systems — from database architecture to polished user interfaces — with a focus on writing clean, readable, and maintainable code. I also build functional websites as a hobby and share them on Facebook so others can find them useful. I thrive in remote environments where I can collaborate, learn from senior developers, and grow as an engineer.`,
   email: 'carlforwebdev@gmail.com',
   github: 'https://github.com/Carl4WebDev',
   facebook: 'https://www.facebook.com/carlcarlcarlivanivansss',
