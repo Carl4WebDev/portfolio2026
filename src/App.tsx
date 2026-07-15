@@ -8,6 +8,7 @@ import Experience from './components/Experience'
 import Achievements from './components/Achievements'
 import Education from './components/Education'
 import EngineeringPrinciples from './components/EngineeringPrinciples'
+import Organizations from './components/Organizations'
 import GitHubSection from './components/GitHubSection'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
@@ -27,6 +28,7 @@ export default function App() {
         <Achievements />
         <Education />
         <EngineeringPrinciples />
+        <Organizations />
         <GitHubSection />
         <Contact />
       </main>

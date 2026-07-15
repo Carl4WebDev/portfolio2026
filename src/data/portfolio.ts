@@ -217,6 +217,21 @@ export const achievements = [
   },
 ]
 
+export const organizations = [
+  {
+    name: 'Zero to Mastery',
+    slug: 'zero-to-mastery',
+    url: 'https://github.com/zero-to-mastery',
+    description: 'A developer education community with 8K+ followers and 120+ open-source repositories — focused on making coding education accessible through hands-on projects and collaborative learning.',
+  },
+  {
+    name: 'STI-WEB-DEVS',
+    slug: 'STI-WEB-DEVS',
+    url: 'https://github.com/STI-WEB-DEVS',
+    description: "STI College's web development organization — collaborating on course projects and sharing knowledge in front-end and back-end development.",
+  },
+]
+
 export const engineeringPrinciples = [
   {
     title: 'Understand First',
