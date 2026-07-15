@@ -13,6 +13,7 @@ const pinnedRepos = [
   { name: 'ccat-practice', description: 'CCAT practice test app — timed tests, question banks, score tracking', language: 'JavaScript', url: 'https://github.com/Carl4WebDev/ccat-practice' },
   { name: 'cc-interview-practice', description: 'Coding interview practice app — algorithm challenges, problem sets, progress tracking', language: 'JavaScript', url: 'https://github.com/Carl4WebDev/cc-interview-practice' },
   { name: 'Simon-Game-1', description: 'Classic Simon memory game built with web technologies', language: 'JavaScript', url: 'https://github.com/Carl4WebDev/Simon-Game-1' },
+  { name: 'eCommerce-web', description: 'Full-stack e-commerce web application — product listings, cart, checkout, responsive design', language: 'JavaScript', url: 'https://github.com/Carl4WebDev/eCommerce-web', liveUrl: 'https://carl4dev-ecommerce-web.netlify.app/' },
 ]
 
 const languageColors: Record<string, string> = {
