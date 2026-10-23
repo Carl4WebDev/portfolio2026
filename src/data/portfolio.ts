@@ -153,7 +153,7 @@ export const projects: Project[] = [
     screenshot: '/screenshots/anumata.png',
     layout: 'right',
     isTeaser: true,
-    teaserDescription: 'A web-based AI-assisted emotional state pre-evaluation system for therapists — using facial emotion recognition and speech emotion analysis to help therapists understand their patients before the session begins. Currently in development as an undergraduate thesis project at STI College Davao.',
+    teaserDescription: 'A web-based AI-assisted emotional state pre-evaluation system for therapists — using facial emotion recognition and speech emotion analysis to help therapists understand their patients before the session begins. A personal side project where I explore applied machine learning and affective computing.',
   },
   {
     title: 'FinalHealth',
@@ -198,7 +198,6 @@ export const experiences = [
 export const education = {
   university: 'STI College Davao',
   degree: 'Bachelor of Science in Computer Science',
-  expectedGraduation: '2027',
   coursework: [
     'Data Structures & Algorithms',
     'Database Systems',
@@ -228,7 +227,7 @@ export const organizations = [
     name: 'STI-WEB-DEVS',
     slug: 'STI-WEB-DEVS',
     url: 'https://github.com/STI-WEB-DEVS',
-    description: "STI College's web development organization — collaborating on course projects and sharing knowledge in front-end and back-end development.",
+    description: 'A web development community I was part of — collaborating on projects and sharing knowledge in front-end and back-end development.',
   },
 ]
 

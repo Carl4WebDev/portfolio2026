@@ -24,10 +24,7 @@ export default function Education() {
               <h3 className="text-xl font-bold text-text">
                 {education.degree}
               </h3>
-              <p className="text-primary font-medium">{education.university}</p>
-              <p className="text-sm text-text-secondary mt-1">
-                Expected Graduation: {education.expectedGraduation}
-              </p>
+              <p className="text-primary font-medium">Studied at {education.university}</p>
             </div>
           </div>
 

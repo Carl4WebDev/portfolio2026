@@ -10,7 +10,7 @@ export default function Projects() {
       <div className="max-w-6xl mx-auto">
         <SectionHeader
           title="Featured Projects"
-          subtitle="Real-world applications I've designed and built end-to-end"
+          subtitle="Personal and freelance projects I've designed and built end-to-end"
         />
 
         <div className="space-y-20">
@@ -264,7 +264,7 @@ function TeaserCard({ project, index }: { project: Project; index: number }) {
         {project.title === 'Anumata' && (
           <div className="flex items-center gap-2 text-sm text-text-secondary">
             <div className="w-2 h-2 bg-blue-500 rounded-full animate-pulse" />
-            Undergraduate thesis project — STI College Davao
+            Personal side project — built in my own time
           </div>
         )}
       </div>
